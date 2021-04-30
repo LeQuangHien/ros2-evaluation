@@ -17,3 +17,5 @@ docs
 .catkin_tools
 cmake-build-debug
 .idea
+install
+log
